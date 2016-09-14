@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Tom/watalamu/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/respond.min.js"
+    ]
+}
